@@ -31,9 +31,9 @@
 
 <div align="center">
     <b>Informations</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Revolutionize-org/proxy-api?color=000">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Revolutionize-org/proxy-api?color=000">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Revolutionize-org/proxy-api?color=000">
-    <img alt="GitHub" src="https://img.shields.io/github/license/Revolutionize-org/proxy-api?color=000">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Revolutionize-org/proxy-api?color=000">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Revolutionize-org/ProxyAPI?color=000">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Revolutionize-org/ProxyAPI?color=000">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Revolutionize-org/ProxyAPI?color=000">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Revolutionize-org/ProxyAPI?color=000">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Revolutionize-org/ProxyAPI?color=000">
 </div>
